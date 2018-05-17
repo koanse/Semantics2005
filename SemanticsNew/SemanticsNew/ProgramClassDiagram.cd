@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="SemanticsNew.Program" Collapsed="true">
+    <Position X="27.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Word">
+    <Position X="8.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AQAEgAhBCAGgAAQEAIAgBAEACAAEgAAEAAQSAAgACBA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SemanticsNew.Noun">
+    <Position X="4.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAEAAAAQAAAAACAAAAAAQAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Adjective">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAEAAAAwAAAAACAAIAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Numeral">
+    <Position X="6.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAEAAAAQAAAAACAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Verb">
+    <Position X="4.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAIgAQAAAAACQAAAAAEAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Participle">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAEAAAAwAAAAACQAIAAAEAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.AdvParticiple">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAEAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Adverb">
+    <Position X="6.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Conjunction">
+    <Position X="4.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Preposition">
+    <Position X="3" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Particle">
+    <Position X="6.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Pronoun">
+    <Position X="4.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAEAAgAQAAAAACAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Punctuation">
+    <Position X="3" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.STNode" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="9.5" Width="3.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>ABACAAABAAAAAABEAAAAAAAAAAAAYAAAQAAAAAwABBA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SemanticsNew.SyntaxAnalysis">
+    <Position X="28" Y="8" Width="5.25" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AgAIAAgQAAAgAAIAEAEAAgQSgAAAIBIAEABAACAAEBY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.GovPattern" BaseTypeListCollapsed="true">
+    <Position X="16" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAACAICAAEAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SemanticsNew.GPFreq" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAACAAAAAAAAQEAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SemanticsNew.GPDictionary">
+    <Position X="17.25" Y="3" Width="4.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>ABEAgIAAAAAAAAAAAAAAAIAAAAAIAAAAAAMAAAAUAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.LFArgVal" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="11.25" Width="4" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAACAQQkAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.133" Collapsed="true" />
+  </Class>
+  <Class Name="SemanticsNew.LFDictionary">
+    <Position X="18.5" Y="8.5" Width="4" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAgAgIAIAAAAEAAACAAAAAAAAAAAAAAAAAAABAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.Linearizer" Collapsed="true">
+    <Position X="29.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAQAAAAAAAAAgAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticsNew.MackMethod">
+    <Position X="40.75" Y="5.75" Width="4.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>ALAAAAAAAAAgABAAAAAiAAACAAAABAAQEEAiQABAAkA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SemanticsNew.MackMethod.Mark">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="SemanticsNew.PhraseComparer">
+    <Position X="38.25" Y="2.75" Width="9.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAIAEgAABAAAAAAAAgAACAAAAAQAAAAAGAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SemanticsNew.Gender">
+    <Position X="31.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAQAAAAAABAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Number">
+    <Position X="33" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Case">
+    <Position X="31.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAIAAAAABAAAAAAAAAACAAAAABAAACAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Animative">
+    <Position X="27.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Degree">
+    <Position X="27.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Short">
+    <Position X="29.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>ACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Aspect">
+    <Position X="29.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Transitive">
+    <Position X="34.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Tense">
+    <Position X="33" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>ACQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Person">
+    <Position X="34.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAQAAAAAAAAABECAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.LexFunction" Collapsed="true">
+    <Position X="36" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAYAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemanticsNew.Actant" Collapsed="true">
+    <Position X="36" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AARAAQAAAAACAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

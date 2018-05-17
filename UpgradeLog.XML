@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Semantics">
+</Property><Property Name="Solution File" Value="C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Semantics.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Semantics.suo">
+</Property><Property Name="Date" Value="5 мая 2010 г.">
+</Property><Property Name="Time" Value="22:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Semantics.sln" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Semantics.suo" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics.suo">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Project file successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Semantics.csproj">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\FindWordForm.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\FindWordForm.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\FindWordForm.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\FindWordForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainForm.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\WordForm.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\WordForm.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\WordForm.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\WordForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainDataSet.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Program.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Program.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\app.config" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\app.config">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainDataSet.xsc" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainDataSet.xsd" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainDataSet.xss" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\FindWordForm.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\FindWordForm.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\MainForm.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\WordForm.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\WordForm.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Semantics\Backup\Semantics\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Semantics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Semantics.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Semantics" Source="Semantics\Semantics.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,167 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12F6E11C-9DDA-4E47-9A0E-08E53BC4E6EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SemanticsNew</RootNamespace>
+    <AssemblyName>SemanticsNew</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="gren_fx, Version=1.0.3416.30389, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>.\gren_fx.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompareForm.Designer.cs">
+      <DependentUpon>CompareForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditLfDictForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLfDictForm.Designer.cs">
+      <DependentUpon>EditLfDictForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LicenceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LicenceForm.Designer.cs">
+      <DependentUpon>LicenceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportLFForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportLFForm.Designer.cs">
+      <DependentUpon>ImportLFForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditGPDictForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditGPDictForm.Designer.cs">
+      <DependentUpon>EditGPDictForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportGPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportGPForm.Designer.cs">
+      <DependentUpon>ImportGPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddGPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGPForm.Designer.cs">
+      <DependentUpon>AddGPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CompareForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CompareForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLfDictForm.resx">
+      <DependentUpon>EditLfDictForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LicenceForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LicenceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportLFForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImportLFForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditGPDictForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditGPDictForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportGPForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImportGPForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGPForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddGPForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ResForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ProgramClassDiagram.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ResForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResForm.Designer.cs">
+      <DependentUpon>ResForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GNU.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
